@@ -10,7 +10,7 @@
 
 ### Pre-built Binaries
 
-Download pre-built binaries for macOS, Linux, and Windows from [GitHub Releases]([https://github.com/sigoden](https://github.com/QQ0907/aichat/releases), extract them, and add the `aichat` binary to your `$PATH`.
+Download pre-built binaries for macOS, Linux, and Windows from [GitHub Releases]([https://github.com/QQ0907](https://github.com/QQ0907/aichat/releases), extract them, and add the `aichat` binary to your `$PATH`.
 
 ## Features
 
