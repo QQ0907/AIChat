@@ -83,7 +83,7 @@ Integrate external documents into your LLM conversations for more accurate and c
 
 Function calling supercharges LLMs by connecting them to external tools and data sources. This unlocks a world of possibilities, enabling LLMs to go beyond their core capabilities and tackle a wider range of tasks.
 
-We have created a new repository [https://github.com/sigoden/llm-functions](https://github.com/QQ0907/llm-functions) to help you make the most of this feature.
+We have created a new repository [https://github.com/QQ0907/llm-functions](https://github.com/QQ0907/llm-functions) to help you make the most of this feature.
 
 #### AI Tools
 
@@ -140,7 +140,7 @@ A web platform to compare different LLMs side-by-side.
 
 AIChat supports custom dark and light themes, which highlight response text and code blocks.
 
-![aichat-themes]([https://github.com/sigoden](https://github.com/QQ0907/aichat/assets/4012553/29fa8b79-031e-405d-9caa-70d24fa0acf8)
+![aichat-themes]([https://github.com/QQ0907](https://github.com/QQ0907/aichat/assets/4012553/29fa8b79-031e-405d-9caa-70d24fa0acf8)
 
 ## License
 
